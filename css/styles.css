@@ -778,7 +778,7 @@ footer .socials-list-item-link:hover, footer .socials-list-item-link:focus {
     fill: transparent;
 }
 
-.modal-input-checkbox:checked .modal-label-checkbox-fake {
+.modal-input-checkbox:checked+.modal-label-checkbox-fake {
     background-color: #404bbf;
     border: none;
     fill: #F4F4FD;
